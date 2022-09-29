@@ -1,0 +1,14 @@
+{
+  "name": "fruit-randomizer",
+  "version": "1.0.0",
+  "description": "Gets random fruit(s) from a list of fruits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fruits", "random", "randomizer"
+  ],
+  "author": "Ana <annalezhava39@gmail.com>",
+  "license": "ISC"
+}
