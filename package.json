@@ -1,5 +1,5 @@
 {
-  "name": "fruit-randomizer",
+  "name": "fruit-randomizer1",
   "version": "1.0.0",
   "description": "Gets random fruit(s) from a list of fruits",
   "main": "index.js",
